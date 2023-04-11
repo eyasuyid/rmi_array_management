@@ -1,0 +1,1 @@
+# rmi_array_management
